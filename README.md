@@ -26,5 +26,5 @@ I'm average 17yo teenageer interested in computer science and foss. Tbh I don't 
 [![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=Git&logoColor=white)](https://git.org)
 [![Hugo](https://img.shields.io/badge/-Hugo-181717?style=for-the-badge&logo=Hugo&logoColor=white)](https://hugo.io)
 [![Gtk](https://img.shields.io/badge/-Gtk-181717?style=for-the-badge&logo=Gnome&logoColor=white)](https://gtk.org)
-[![Godot](https://img.shields.io/badge/-Godot-181717?style=for-the-badge&logo=Godotengine&logoColor=white](https://godotengine.org)
+[![Godot](https://img.shields.io/badge/-Godot-181717?style=for-the-badge&logo=Godotengine&logoColor=white)](https://godotengine.org)
 [![Qt](https://img.shields.io/badge/-Qt-181717?style=for-the-badge&logo=Qt&logoColor=white)](https://qt.io)
