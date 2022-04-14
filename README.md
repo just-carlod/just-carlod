@@ -2,7 +2,7 @@ Hi, my name is Karol, but I'm mainly known as Carlod.
 
 ## About me
 
-I'm average 17yo teenageer interested in computer science and foss. Tbh I don't know what else can I write. More info in the future, maybe?
+I'm average 18yo teenageer interested in math, football ⚽, computer science and foss development 👨‍💻. Tbh I don't know what else can I say about me. More info in a future, maybe?
 
 ## Github Stats
 
